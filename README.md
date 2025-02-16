@@ -1,1 +1,1 @@
-# Lab_Tasks_Software_Construction_-_Development
+# Lab_Tasks_Software_Construction_&_Development
